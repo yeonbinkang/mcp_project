@@ -3,7 +3,7 @@
 ### ✅ 1. 저장소 클론
 
 ```bash
-git clone https://github.com/yourusername/langgraph-mcp-agents.git
+git clone https://github.com/yeonbinkang/mcp_project.git
 cd langgraph-mcp-agents
 ```
 
