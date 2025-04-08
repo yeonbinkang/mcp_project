@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/yeonbinkang/mcp_project.git
-cd langgraph-mcp-agents
+cd mcp_project
 ```
 
 ---
